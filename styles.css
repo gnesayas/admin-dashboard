@@ -148,7 +148,7 @@ button {
     padding-right: 30px;
     padding-bottom: 30px;
     padding-left: 30px;
-    box-shadow: 84px 0px 0px -74px inset #fbbf24, 0px 4px 4px #d4d4d4;
+    box-shadow: 84px 0px 0px -74px inset #fbbf24, 2px 4px 4px #d4d4d4;
 }
 
 .card-icons {
